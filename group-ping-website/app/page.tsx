@@ -28,7 +28,7 @@ import {
   X,
 } from 'lucide-react'
 
-const INSTALL_LINK = 'https://drive.google.com/file/d/1pIr54xPqCnTalbNDaIVdpfNtExHOC95z/view'
+const INSTALL_LINK = '#install'
 const GOOGLE_AI_LINK = 'https://aistudio.google.com/app/apikey'
 
 const steps = [
